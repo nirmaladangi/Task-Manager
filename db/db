@@ -24,10 +24,3 @@ CREATE TABLE tasks (
 );
 
 
-
-
-cd server
-npx nodemon server.js
-
-cd ../client
-npm start
